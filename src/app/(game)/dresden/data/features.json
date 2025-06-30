@@ -50,6 +50,9 @@
       "properties": {
         "id": 31,
         "name": "Jacob-Winter-Platz (Prohlis-Zentrum)",
+        "alternate_names": [
+          "Jacob-Winter-Platz"
+        ],
         "line": "DresdenTram1",
         "order": 1
       },
@@ -2010,6 +2013,10 @@
       "properties": {
         "id": 146,
         "name": "Radebeul West, Flemmingstraße",
+        "alternate_names": [
+          "Radebeul West",
+          "Flemmingstraße"
+        ],
         "line": "DresdenTram4",
         "order": 8
       },
@@ -2726,6 +2733,10 @@
       "properties": {
         "id": 108,
         "name": "Striesen, Altenberger Straße",
+        "alternate_names": [
+          "Altenberger Straße",
+          "Emmanuel-Goldberg-Platz"
+        ],
         "line": "DresdenTram4",
         "order": 8
       },
@@ -2743,6 +2754,9 @@
       "properties": {
         "id": 107,
         "name": "Striesen, Ludwig-Hartmann-Straße",
+        "alternate_names": [
+          "Ludwig-Hartmann-Straße"
+        ],
         "line": "DresdenTram4",
         "order": 8
       },
@@ -2883,6 +2897,10 @@
       "properties": {
         "id": 161,
         "name": "Radebeul Ost, Schillerstraße",
+        "alternate_names": [
+          "Radebeul Ost",
+          "Schillerstraße"
+        ],
         "line": "DresdenTram4",
         "order": 8
       },
@@ -3155,6 +3173,9 @@
       "properties": {
         "id": 190,
         "name": "Striesen, Ludwig-Hartmann-Straße",
+        "alternate_names": [
+          "Ludwig-Hartmann-Straße"
+        ],
         "line": "DresdenTram6",
         "order": 9
       },
@@ -5059,6 +5080,9 @@
       "properties": {
         "id": 282,
         "name": "Jacob-Winter-Platz (Prohlis-Zentrum)",
+        "alternate_names": [
+          "Jacob-Winter-Platz"
+        ],
         "line": "DresdenTram9",
         "order": 12
       },
@@ -5736,6 +5760,9 @@
       "properties": {
         "id": 321,
         "name": "Striesen, Ludwig-Hartmann-Straße",
+        "alternate_names": [
+          "Ludwig-Hartmann-Straße"
+        ],
         "line": "DresdenTram10",
         "order": 2
       },
@@ -5753,6 +5780,10 @@
       "properties": {
         "id": 322,
         "name": "Striesen, Altenberger Straße",
+        "alternate_names": [
+          "Altenberger Straße",
+          "Emmanuel-Goldberg-Platz"
+        ],
         "line": "DresdenTram10",
         "order": 2
       },
@@ -6698,6 +6729,9 @@
       "properties": {
         "id": 406,
         "name": "Striesen, Ludwig-Hartmann-Straße",
+        "alternate_names": [
+          "Ludwig-Hartmann-Straße"
+        ],
         "line": "DresdenTram12",
         "order": 4
       },
@@ -7975,6 +8009,9 @@
       "properties": {
         "id": 409,
         "name": "Jacob-Winter-Platz (Prohlis-Zentrum)",
+        "alternate_names": [
+          "Jacob-Winter-Platz"
+        ],
         "line": "DresdenTram13",
         "order": 5
       },

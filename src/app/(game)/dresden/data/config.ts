@@ -406,8 +406,24 @@ export const alternateNames: { [stationName: string]: string[] | undefined } = {
     'Zschertnitz',
     'Münzmeisterstraße',
   ],
-  
-  
+      'Radebeul West, Flemmingstraße': [
+    'Radebeul West',
+    'Flemmingstraße',
+  ],
+      'Radebeul Ost, Schillerstraße': [
+    'Radebeul Ost',
+    'Schillerstraße',
+  ],
+    'Jacob-Winter-Platz (Prohlis-Zentrum)': [
+    'Jacob-Winter-Platz',
+  ],
+    'Striesen, Altenberger Straße': [
+    'Altenberger Straße',
+    'Emmanuel-Goldberg-Platz',
+  ],
+    'Striesen, Ludwig-Hartmann-Straße': [
+    'Ludwig-Hartmann-Straße',
+  ],
   
   
   
