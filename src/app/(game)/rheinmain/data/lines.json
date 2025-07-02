@@ -1,0 +1,65 @@
+{
+  "SRM1": {
+    "name": "S1",
+    "color": "#0095da",
+    "backgroundColor": "#004A6D",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "SRM2": {
+    "name": "S2",
+    "color": "#ee1c23",
+    "backgroundColor": "#7C090D",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "SRM3": {
+    "name": "S3",
+    "color": "#00A896",
+    "backgroundColor": "#00544B",
+    "textColor": "#FFFFFF",
+    "order": 3
+  },
+  "SRM4": {
+    "name": "S4",
+    "color": "#fecb09",
+    "backgroundColor": "#836801",
+    "textColor": "#FFFFFF",
+    "order": 4
+  },
+  "SRM5": {
+    "name": "S5",
+    "color": "#945c38",
+    "backgroundColor": "#4A2E1C",
+    "textColor": "#FFFFFF",
+    "order": 5
+  },
+  "SRM6": {
+    "name": "S6",
+    "color": "#f57921",
+    "backgroundColor": "#853B06",
+    "textColor": "#FFFFFF",
+    "order": 6
+  },
+  "SRM7": {
+    "name": "S7",
+    "color": "#20543f",
+    "backgroundColor": "#102A1F",
+    "textColor": "#FFFFFF",
+    "order": 7
+  },
+  "SRM8": {
+    "name": "S8",
+    "color": "#d7df23",
+    "backgroundColor": "#6D7110",
+    "textColor": "#FFFFFF",
+    "order": 8
+  },
+  "SRM9": {
+    "name": "S9",
+    "color": "#91268f",
+    "backgroundColor": "#491347",
+    "textColor": "#FFFFFF",
+    "order": 9
+  }
+}

@@ -1,0 +1,3760 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2441108,
+          50.0703974
+        ]
+      },
+      "properties": {
+        "id": 450,
+        "name": "Wiesbaden Hbf",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 450
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2564366,
+          50.0412219
+        ]
+      },
+      "properties": {
+        "id": 451,
+        "name": "Wiesbaden Ost",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 451
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2819768,
+          50.0073879
+        ]
+      },
+      "properties": {
+        "id": 452,
+        "name": "Mainz-Kastel",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 452
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3502661,
+          50.0042771
+        ]
+      },
+      "properties": {
+        "id": 453,
+        "name": "Hochheim(Main)",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 453
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4309987,
+          50.0171298
+        ]
+      },
+      "properties": {
+        "id": 454,
+        "name": "Flörsheim(Main)",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 454
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.456442,
+          50.0391959
+        ]
+      },
+      "properties": {
+        "id": 455,
+        "name": "Eddersheim",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 455
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4893708,
+          50.0675638
+        ]
+      },
+      "properties": {
+        "id": 456,
+        "name": "Hattersheim (Main)",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 456
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5118312,
+          50.0871086
+        ]
+      },
+      "properties": {
+        "id": 457,
+        "name": "Frankfurt am Main Sindlingen",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 457
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5281207,
+          50.0984509
+        ]
+      },
+      "properties": {
+        "id": 458,
+        "name": "Frankfurt-Höchst Farbwerke",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 458
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5409612,
+          50.1022999
+        ]
+      },
+      "properties": {
+        "id": 459,
+        "name": "Frankfurt-Höchst",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 459
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5706879,
+          50.1025375
+        ]
+      },
+      "properties": {
+        "id": 460,
+        "name": "Nied",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 460
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6056226,
+          50.0942787
+        ]
+      },
+      "properties": {
+        "id": 461,
+        "name": "Griesheim",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 461
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6621788,
+          50.1070899
+        ]
+      },
+      "properties": {
+        "id": 462,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 462
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 463,
+        "name": "Taunusanlage",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 463
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 464,
+        "name": "Hauptwache",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 464
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 465,
+        "name": "Konstablerwache",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 465
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 466,
+        "name": "Ostendstraße",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 466
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7008501,
+          50.1017484
+        ]
+      },
+      "properties": {
+        "id": 467,
+        "name": "Mühlberg",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 467
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7395198,
+          50.105218
+        ]
+      },
+      "properties": {
+        "id": 468,
+        "name": "Offenbach (Main) Kaiserlei",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 468
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.750309,
+          50.1059227
+        ]
+      },
+      "properties": {
+        "id": 469,
+        "name": "Ledermuseum",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 469
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7633346,
+          50.1058635
+        ]
+      },
+      "properties": {
+        "id": 470,
+        "name": "Marktplatz",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 470
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7847542,
+          50.1028069
+        ]
+      },
+      "properties": {
+        "id": 471,
+        "name": "Offenbach (Main) Ost",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 471
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8084633,
+          50.0904837
+        ]
+      },
+      "properties": {
+        "id": 472,
+        "name": "Offenbach-Bieber",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 472
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8288376,
+          50.0816825
+        ]
+      },
+      "properties": {
+        "id": 473,
+        "name": "Offenbach-Waldhof",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 473
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8539071,
+          50.071807
+        ]
+      },
+      "properties": {
+        "id": 474,
+        "name": "Obertshausen",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 474
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8777789,
+          50.0528528
+        ]
+      },
+      "properties": {
+        "id": 475,
+        "name": "Rodgau-Weiskirchen",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 475
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8759241,
+          50.0383708
+        ]
+      },
+      "properties": {
+        "id": 476,
+        "name": "Rodgau-Hainhausen",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 476
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8790204,
+          50.0252406
+        ]
+      },
+      "properties": {
+        "id": 477,
+        "name": "Rodgau-Jügesheim",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 477
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.884196,
+          50.0112663
+        ]
+      },
+      "properties": {
+        "id": 478,
+        "name": "Rodgau-Dudenhofen",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 478
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8697113,
+          49.9968665
+        ]
+      },
+      "properties": {
+        "id": 479,
+        "name": "Rodgau-Nieder-Roden",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 479
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8466779,
+          49.988024
+        ]
+      },
+      "properties": {
+        "id": 480,
+        "name": "Rodgau-Rollwald",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 480
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8290026,
+          49.9733988
+        ]
+      },
+      "properties": {
+        "id": 481,
+        "name": "Rödermark-Ober Roden",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 481
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 482,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM1",
+        "order": 1
+      },
+      "id": 482
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3136728,
+          50.1594076
+        ]
+      },
+      "properties": {
+        "id": 483,
+        "name": "Niedernhausen",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 483
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3515421,
+          50.1496023
+        ]
+      },
+      "properties": {
+        "id": 484,
+        "name": "Niederjosbach",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 484
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.364577,
+          50.1409535
+        ]
+      },
+      "properties": {
+        "id": 485,
+        "name": "Eppstein-Bremthal",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 485
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3879321,
+          50.1395975
+        ]
+      },
+      "properties": {
+        "id": 486,
+        "name": "Eppstein",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 486
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4229786,
+          50.1146737
+        ]
+      },
+      "properties": {
+        "id": 487,
+        "name": "Lorsbach",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 487
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4445108,
+          50.0841616
+        ]
+      },
+      "properties": {
+        "id": 488,
+        "name": "Hofheim (Taunus)",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 488
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.475215,
+          50.0821963
+        ]
+      },
+      "properties": {
+        "id": 489,
+        "name": "Kriftel",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 489
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5051413,
+          50.0899106
+        ]
+      },
+      "properties": {
+        "id": 490,
+        "name": "Frankfurt-Zeilsheim",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 490
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5281207,
+          50.0984509
+        ]
+      },
+      "properties": {
+        "id": 491,
+        "name": "Frankfurt-Höchst Farbwerke",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 491
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5409612,
+          50.1022999
+        ]
+      },
+      "properties": {
+        "id": 492,
+        "name": "Frankfurt-Höchst",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 492
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5706879,
+          50.1025375
+        ]
+      },
+      "properties": {
+        "id": 493,
+        "name": "Nied",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 493
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6056226,
+          50.0942787
+        ]
+      },
+      "properties": {
+        "id": 494,
+        "name": "Griesheim",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 494
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6621788,
+          50.1070899
+        ]
+      },
+      "properties": {
+        "id": 495,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 495
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 496,
+        "name": "Taunusanlage",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 496
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 497,
+        "name": "Hauptwache",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 497
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 498,
+        "name": "Konstablerwache",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 498
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 499,
+        "name": "Ostendstraße",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 499
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7008501,
+          50.1017484
+        ]
+      },
+      "properties": {
+        "id": 500,
+        "name": "Mühlberg",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 500
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7395198,
+          50.105218
+        ]
+      },
+      "properties": {
+        "id": 501,
+        "name": "Offenbach (Main) Kaiserlei",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 501
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.750309,
+          50.1059227
+        ]
+      },
+      "properties": {
+        "id": 502,
+        "name": "Ledermuseum",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 502
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7633346,
+          50.1058635
+        ]
+      },
+      "properties": {
+        "id": 503,
+        "name": "Marktplatz",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 503
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7847542,
+          50.1028069
+        ]
+      },
+      "properties": {
+        "id": 504,
+        "name": "Offenbach (Main) Ost",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 504
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8084633,
+          50.0904837
+        ]
+      },
+      "properties": {
+        "id": 505,
+        "name": "Offenbach-Bieber",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 505
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8021273,
+          50.0600636
+        ]
+      },
+      "properties": {
+        "id": 506,
+        "name": "Heusenstamm",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 506
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.793107,
+          50.0260042
+        ]
+      },
+      "properties": {
+        "id": 507,
+        "name": "Dietzenbach-Steinberg",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 507
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7892344,
+          50.0175408
+        ]
+      },
+      "properties": {
+        "id": 508,
+        "name": "Dietzenbach Mitte",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 508
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7855377,
+          50.0081526
+        ]
+      },
+      "properties": {
+        "id": 509,
+        "name": "Dietzenbach Bahnhof",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 509
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 510,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM2",
+        "order": 2
+      },
+      "id": 510
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.504275,
+          50.1431017
+        ]
+      },
+      "properties": {
+        "id": 511,
+        "name": "Bad Soden",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 511
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5176564,
+          50.1388624
+        ]
+      },
+      "properties": {
+        "id": 512,
+        "name": "Sulzbach Nord",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 512
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5280837,
+          50.1544693
+        ]
+      },
+      "properties": {
+        "id": 513,
+        "name": "Schwalbach Limes",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 513
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5343695,
+          50.1597696
+        ]
+      },
+      "properties": {
+        "id": 514,
+        "name": "Schwalbach Nord",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 514
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5470574,
+          50.1542851
+        ]
+      },
+      "properties": {
+        "id": 515,
+        "name": "Niederhöchstadt",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 515
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5610599,
+          50.1434617
+        ]
+      },
+      "properties": {
+        "id": 516,
+        "name": "Eschborn",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 516
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5783924,
+          50.1335787
+        ]
+      },
+      "properties": {
+        "id": 517,
+        "name": "Eschborn Süd",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 517
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6070561,
+          50.1247612
+        ]
+      },
+      "properties": {
+        "id": 518,
+        "name": "Frankfurt-Rödelheim",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 518
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6396932,
+          50.1193334
+        ]
+      },
+      "properties": {
+        "id": 519,
+        "name": "Frankfurt am Main West",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 519
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6433961,
+          50.111942
+        ]
+      },
+      "properties": {
+        "id": 520,
+        "name": "Frankfurt am Main Messe",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 520
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444601,
+          50.1042607
+        ]
+      },
+      "properties": {
+        "id": 521,
+        "name": "Galluswarte",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 521
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6623412,
+          50.1069748
+        ]
+      },
+      "properties": {
+        "id": 522,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 522
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 523,
+        "name": "Taunusanlage",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 523
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 524,
+        "name": "Hauptwache",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 524
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 525,
+        "name": "Konstablerwache",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 525
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 526,
+        "name": "Ostendstraße",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 526
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6928812,
+          50.1021699
+        ]
+      },
+      "properties": {
+        "id": 527,
+        "name": "Lokalbahnhof",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 527
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6859064,
+          50.0993652
+        ]
+      },
+      "properties": {
+        "id": 528,
+        "name": "Frankfurt (Main) Süd",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 528
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 529,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 529
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6435764,
+          50.1119471
+        ]
+      },
+      "properties": {
+        "id": 530,
+        "name": "Frankfurt Messe",
+        "line": "SRM3",
+        "order": 3
+      },
+      "id": 530
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5168477,
+          50.1799337
+        ]
+      },
+      "properties": {
+        "id": 531,
+        "name": "Kronberg",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 531
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5292224,
+          50.1732817
+        ]
+      },
+      "properties": {
+        "id": 532,
+        "name": "Kronberg Süd",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 532
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5470574,
+          50.1542851
+        ]
+      },
+      "properties": {
+        "id": 533,
+        "name": "Niederhöchstadt",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 533
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5610599,
+          50.1434617
+        ]
+      },
+      "properties": {
+        "id": 534,
+        "name": "Eschborn",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 534
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5783924,
+          50.1335787
+        ]
+      },
+      "properties": {
+        "id": 535,
+        "name": "Eschborn Süd",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 535
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6070561,
+          50.1247612
+        ]
+      },
+      "properties": {
+        "id": 536,
+        "name": "Frankfurt-Rödelheim",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 536
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6396932,
+          50.1193334
+        ]
+      },
+      "properties": {
+        "id": 537,
+        "name": "Frankfurt am Main West",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 537
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6433961,
+          50.111942
+        ]
+      },
+      "properties": {
+        "id": 538,
+        "name": "Frankfurt am Main Messe",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 538
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444601,
+          50.1042607
+        ]
+      },
+      "properties": {
+        "id": 539,
+        "name": "Galluswarte",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 539
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6623412,
+          50.1069748
+        ]
+      },
+      "properties": {
+        "id": 540,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 540
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 541,
+        "name": "Taunusanlage",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 541
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 542,
+        "name": "Hauptwache",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 542
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 543,
+        "name": "Konstablerwache",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 543
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 544,
+        "name": "Ostendstraße",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 544
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6928812,
+          50.1021699
+        ]
+      },
+      "properties": {
+        "id": 545,
+        "name": "Lokalbahnhof",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 545
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6859064,
+          50.0993652
+        ]
+      },
+      "properties": {
+        "id": 546,
+        "name": "Frankfurt (Main) Süd",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 546
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 547,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 547
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6435764,
+          50.1119471
+        ]
+      },
+      "properties": {
+        "id": 548,
+        "name": "Frankfurt Messe",
+        "line": "SRM4",
+        "order": 4
+      },
+      "id": 548
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6448392,
+          50.2522475
+        ]
+      },
+      "properties": {
+        "id": 549,
+        "name": "Friedrichsdorf",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 549
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6450762,
+          50.2428139
+        ]
+      },
+      "properties": {
+        "id": 550,
+        "name": "Seulberg",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 550
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6211749,
+          50.2199846
+        ]
+      },
+      "properties": {
+        "id": 551,
+        "name": "Bad Homburg v. d. Höhe",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 551
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5885185,
+          50.1990894
+        ]
+      },
+      "properties": {
+        "id": 552,
+        "name": "Oberursel(Taunus)",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 552
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5847575,
+          50.1851803
+        ]
+      },
+      "properties": {
+        "id": 553,
+        "name": "Stierstadt",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 553
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5868789,
+          50.1733149
+        ]
+      },
+      "properties": {
+        "id": 554,
+        "name": "Weißkirchen/Steinbach",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 554
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6070561,
+          50.1247612
+        ]
+      },
+      "properties": {
+        "id": 555,
+        "name": "Frankfurt-Rödelheim",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 555
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6396932,
+          50.1193334
+        ]
+      },
+      "properties": {
+        "id": 556,
+        "name": "Frankfurt am Main West",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 556
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6433961,
+          50.111942
+        ]
+      },
+      "properties": {
+        "id": 557,
+        "name": "Frankfurt am Main Messe",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 557
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444601,
+          50.1042607
+        ]
+      },
+      "properties": {
+        "id": 558,
+        "name": "Galluswarte",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 558
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6623412,
+          50.1069748
+        ]
+      },
+      "properties": {
+        "id": 559,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 559
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 560,
+        "name": "Taunusanlage",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 560
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 561,
+        "name": "Hauptwache",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 561
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 562,
+        "name": "Konstablerwache",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 562
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 563,
+        "name": "Ostendstraße",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 563
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6928812,
+          50.1021699
+        ]
+      },
+      "properties": {
+        "id": 564,
+        "name": "Lokalbahnhof",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 564
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6859064,
+          50.0993652
+        ]
+      },
+      "properties": {
+        "id": 565,
+        "name": "Frankfurt (Main) Süd",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 565
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 566,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 566
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6435764,
+          50.1119471
+        ]
+      },
+      "properties": {
+        "id": 567,
+        "name": "Frankfurt Messe",
+        "line": "SRM5",
+        "order": 5
+      },
+      "id": 567
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6300801,
+          49.8733345
+        ]
+      },
+      "properties": {
+        "id": 598,
+        "name": "Darmstadt Hauptbahnhof",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 598
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6455534,
+          49.913741
+        ]
+      },
+      "properties": {
+        "id": 599,
+        "name": "Darmstadt-Arheilgen",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 599
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6480205,
+          49.9309178
+        ]
+      },
+      "properties": {
+        "id": 600,
+        "name": "Darmstadt-Wixhausen",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 600
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6511698,
+          49.9515146
+        ]
+      },
+      "properties": {
+        "id": 601,
+        "name": "Erzhausen",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 601
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6535098,
+          49.9689008
+        ]
+      },
+      "properties": {
+        "id": 602,
+        "name": "Egelsbach",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 602
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6566923,
+          49.9935178
+        ]
+      },
+      "properties": {
+        "id": 568,
+        "name": "Langen (Hess)",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 568
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6585913,
+          50.0053143
+        ]
+      },
+      "properties": {
+        "id": 569,
+        "name": "Langen Flugsicherung",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 569
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6611388,
+          50.0228219
+        ]
+      },
+      "properties": {
+        "id": 570,
+        "name": "Dreieich-Buchschlag",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 570
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6655303,
+          50.053042
+        ]
+      },
+      "properties": {
+        "id": 571,
+        "name": "Neu-Isenburg",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 571
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6704735,
+          50.0838087
+        ]
+      },
+      "properties": {
+        "id": 572,
+        "name": "Frankfurt-Louisa",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 572
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6710278,
+          50.0942109
+        ]
+      },
+      "properties": {
+        "id": 573,
+        "name": "Stresemannallee",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 573
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6861727,
+          50.0993247
+        ]
+      },
+      "properties": {
+        "id": 574,
+        "name": "Frankfurt (Main) Süd",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 574
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6928812,
+          50.1021699
+        ]
+      },
+      "properties": {
+        "id": 575,
+        "name": "Lokalbahnhof",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 575
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 576,
+        "name": "Ostendstraße",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 576
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 577,
+        "name": "Konstablerwache",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 577
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 578,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 578
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 579,
+        "name": "Taunusanlage",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 579
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6623412,
+          50.1069748
+        ]
+      },
+      "properties": {
+        "id": 580,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 580
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444601,
+          50.1042607
+        ]
+      },
+      "properties": {
+        "id": 581,
+        "name": "Galluswarte",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 581
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6435764,
+          50.1119471
+        ]
+      },
+      "properties": {
+        "id": 582,
+        "name": "Frankfurt Messe",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 582
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6396932,
+          50.1193334
+        ]
+      },
+      "properties": {
+        "id": 583,
+        "name": "Frankfurt am Main West",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 583
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6425951,
+          50.1421905
+        ]
+      },
+      "properties": {
+        "id": 584,
+        "name": "Frankfurt am Main Ginnheim",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 584
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6542505,
+          50.1571137
+        ]
+      },
+      "properties": {
+        "id": 585,
+        "name": "Frankfurt-Eschersheim",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 585
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678716,
+          50.170067
+        ]
+      },
+      "properties": {
+        "id": 586,
+        "name": "Frankfurt Frankfurter Berg",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 586
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6971547,
+          50.1760111
+        ]
+      },
+      "properties": {
+        "id": 587,
+        "name": "Frankfurt-Berkersheim",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 587
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7330215,
+          50.1784708
+        ]
+      },
+      "properties": {
+        "id": 588,
+        "name": "Bad Vilbel Süd",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 588
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.739711,
+          50.1884978
+        ]
+      },
+      "properties": {
+        "id": 589,
+        "name": "Bad Vilbel",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 589
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7511947,
+          50.2075261
+        ]
+      },
+      "properties": {
+        "id": 590,
+        "name": "Dortelweil",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 590
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7535301,
+          50.230953
+        ]
+      },
+      "properties": {
+        "id": 591,
+        "name": "Groß Karben",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 591
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6433961,
+          50.111942
+        ]
+      },
+      "properties": {
+        "id": 596,
+        "name": "Frankfurt am Main Messe",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 596
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 597,
+        "name": "Hauptwache",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 597
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7533618,
+          50.2526227
+        ]
+      },
+      "properties": {
+        "id": 592,
+        "name": "Okarben",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 592
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7671883,
+          50.2800467
+        ]
+      },
+      "properties": {
+        "id": 593,
+        "name": "Nieder Wöllstadt",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 593
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7884612,
+          50.3019694
+        ]
+      },
+      "properties": {
+        "id": 594,
+        "name": "Bruchenbrücken",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 594
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7611809,
+          50.3326722
+        ]
+      },
+      "properties": {
+        "id": 595,
+        "name": "Friedberg (Hessen)",
+        "line": "SRM6",
+        "order": 6
+      },
+      "id": 595
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4891014,
+          49.8327691
+        ]
+      },
+      "properties": {
+        "id": 603,
+        "name": "Riedstadt-Goddelau",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 603
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.493047,
+          49.8530773
+        ]
+      },
+      "properties": {
+        "id": 604,
+        "name": "Riedstadt-Wolfskehlen",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 604
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4936416,
+          49.876577
+        ]
+      },
+      "properties": {
+        "id": 605,
+        "name": "Groß-Gerau-Dornheim",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 605
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4948057,
+          49.9116866
+        ]
+      },
+      "properties": {
+        "id": 606,
+        "name": "Groß-Gerau Dornberg",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 606
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5655099,
+          49.979173
+        ]
+      },
+      "properties": {
+        "id": 607,
+        "name": "Mörfelden",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 607
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5808891,
+          50.0014511
+        ]
+      },
+      "properties": {
+        "id": 608,
+        "name": "Walldorf",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 608
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6050217,
+          50.0362692
+        ]
+      },
+      "properties": {
+        "id": 609,
+        "name": "Zeppelinheim",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 609
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6321714,
+          50.0677097
+        ]
+      },
+      "properties": {
+        "id": 610,
+        "name": "Frankfurt am Main Stadion",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 610
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6372477,
+          50.0806428
+        ]
+      },
+      "properties": {
+        "id": 611,
+        "name": "Frankfurt-Niederrad",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 611
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.663209,
+          50.1059949
+        ]
+      },
+      "properties": {
+        "id": 612,
+        "name": "Frankfurt (Main) Hauptbahnhof",
+        "line": "SRM7",
+        "order": 7
+      },
+      "id": 612
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2441108,
+          50.0703974
+        ]
+      },
+      "properties": {
+        "id": 613,
+        "name": "Wiesbaden Hbf",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 613
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25657,
+          50.0412658
+        ]
+      },
+      "properties": {
+        "id": 614,
+        "name": "Wiesbaden Ost",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 614
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2456967,
+          50.019517
+        ]
+      },
+      "properties": {
+        "id": 615,
+        "name": "Mainz Nord",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 615
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2585818,
+          50.0009711
+        ]
+      },
+      "properties": {
+        "id": 616,
+        "name": "Mainz Hauptbahnhof",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 616
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2786416,
+          49.9931661
+        ]
+      },
+      "properties": {
+        "id": 617,
+        "name": "Mainz Römisches Theater",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 617
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3141608,
+          49.9943047
+        ]
+      },
+      "properties": {
+        "id": 618,
+        "name": "Mainz-Gustavsburg",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 618
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3575021,
+          49.9932082
+        ]
+      },
+      "properties": {
+        "id": 619,
+        "name": "Mainz-Bischofsheim",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 619
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4004825,
+          49.9878134
+        ]
+      },
+      "properties": {
+        "id": 620,
+        "name": "Opelwerk",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 620
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4136092,
+          49.9916269
+        ]
+      },
+      "properties": {
+        "id": 621,
+        "name": "Rüsselsheim",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 621
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4549138,
+          50.0098669
+        ]
+      },
+      "properties": {
+        "id": 622,
+        "name": "Raunheim",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 622
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295753,
+          50.0622535
+        ]
+      },
+      "properties": {
+        "id": 623,
+        "name": "Kelsterbach",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 623
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.571805,
+          50.0512909
+        ]
+      },
+      "properties": {
+        "id": 624,
+        "name": "Frankfurt am Main Flughafen Regionalbahnhof",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 624
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59474,
+          50.0565469
+        ]
+      },
+      "properties": {
+        "id": 625,
+        "name": "Frankfurt-Gateway Gardens",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 625
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6329936,
+          50.0683239
+        ]
+      },
+      "properties": {
+        "id": 626,
+        "name": "Frankfurt am Main Stadion",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 626
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6367142,
+          50.0809654
+        ]
+      },
+      "properties": {
+        "id": 627,
+        "name": "Frankfurt-Niederrad",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 627
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6621788,
+          50.1070899
+        ]
+      },
+      "properties": {
+        "id": 628,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 628
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 629,
+        "name": "Taunusanlage",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 629
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 630,
+        "name": "Hauptwache",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 630
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 631,
+        "name": "Konstablerwache",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 631
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 632,
+        "name": "Ostendstraße",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 632
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7008501,
+          50.1017484
+        ]
+      },
+      "properties": {
+        "id": 633,
+        "name": "Mühlberg",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 633
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7395198,
+          50.105218
+        ]
+      },
+      "properties": {
+        "id": 634,
+        "name": "Offenbach (Main) Kaiserlei",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 634
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.750309,
+          50.1059227
+        ]
+      },
+      "properties": {
+        "id": 635,
+        "name": "Ledermuseum",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 635
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7633346,
+          50.1058635
+        ]
+      },
+      "properties": {
+        "id": 636,
+        "name": "Marktplatz",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 636
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7847542,
+          50.1028069
+        ]
+      },
+      "properties": {
+        "id": 637,
+        "name": "Offenbach (Main) Ost",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 637
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8382153,
+          50.1191451
+        ]
+      },
+      "properties": {
+        "id": 638,
+        "name": "Mühlheim (Main)",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 638
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8585453,
+          50.1203943
+        ]
+      },
+      "properties": {
+        "id": 639,
+        "name": "Mühlheim (Main)-Dietesheim",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 639
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9074434,
+          50.1217191
+        ]
+      },
+      "properties": {
+        "id": 640,
+        "name": "Steinheim/Main (Hanau)",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 640
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9295574,
+          50.1213168
+        ]
+      },
+      "properties": {
+        "id": 641,
+        "name": "Hanau Hbf",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 641
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 642,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM8",
+        "order": 8
+      },
+      "id": 642
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.244228,
+          50.0703965
+        ]
+      },
+      "properties": {
+        "id": 643,
+        "name": "Wiesbaden Hbf",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 643
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2564366,
+          50.0412219
+        ]
+      },
+      "properties": {
+        "id": 644,
+        "name": "Wiesbaden Ost",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 644
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2819768,
+          50.0073879
+        ]
+      },
+      "properties": {
+        "id": 645,
+        "name": "Mainz-Kastel",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 645
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3582293,
+          49.9928454
+        ]
+      },
+      "properties": {
+        "id": 646,
+        "name": "Mainz-Bischofsheim",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 646
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4004825,
+          49.9878134
+        ]
+      },
+      "properties": {
+        "id": 647,
+        "name": "Opelwerk",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 647
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4136092,
+          49.9916269
+        ]
+      },
+      "properties": {
+        "id": 648,
+        "name": "Rüsselsheim",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 648
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4549138,
+          50.0098669
+        ]
+      },
+      "properties": {
+        "id": 649,
+        "name": "Raunheim",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 649
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5295753,
+          50.0622535
+        ]
+      },
+      "properties": {
+        "id": 650,
+        "name": "Kelsterbach",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 650
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.571805,
+          50.0512909
+        ]
+      },
+      "properties": {
+        "id": 651,
+        "name": "Frankfurt am Main Flughafen Regionalbahnhof",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 651
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59474,
+          50.0565469
+        ]
+      },
+      "properties": {
+        "id": 652,
+        "name": "Frankfurt-Gateway Gardens",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 652
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6329936,
+          50.0683239
+        ]
+      },
+      "properties": {
+        "id": 653,
+        "name": "Frankfurt am Main Stadion",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 653
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6367142,
+          50.0809654
+        ]
+      },
+      "properties": {
+        "id": 654,
+        "name": "Frankfurt-Niederrad",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 654
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6621788,
+          50.1070899
+        ]
+      },
+      "properties": {
+        "id": 655,
+        "name": "Hauptbahnhof (tief)",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 655
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690202,
+          50.1136432
+        ]
+      },
+      "properties": {
+        "id": 656,
+        "name": "Taunusanlage",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 656
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782794,
+          50.1139672
+        ]
+      },
+      "properties": {
+        "id": 657,
+        "name": "Hauptwache",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 657
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6870331,
+          50.1145965
+        ]
+      },
+      "properties": {
+        "id": 658,
+        "name": "Konstablerwache",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 658
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6965549,
+          50.1128475
+        ]
+      },
+      "properties": {
+        "id": 659,
+        "name": "Ostendstraße",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 659
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7008501,
+          50.1017484
+        ]
+      },
+      "properties": {
+        "id": 660,
+        "name": "Mühlberg",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 660
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7395198,
+          50.105218
+        ]
+      },
+      "properties": {
+        "id": 661,
+        "name": "Offenbach (Main) Kaiserlei",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 661
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.750309,
+          50.1059227
+        ]
+      },
+      "properties": {
+        "id": 662,
+        "name": "Ledermuseum",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 662
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7633346,
+          50.1058635
+        ]
+      },
+      "properties": {
+        "id": 663,
+        "name": "Marktplatz",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 663
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7847542,
+          50.1028069
+        ]
+      },
+      "properties": {
+        "id": 664,
+        "name": "Offenbach (Main) Ost",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 664
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8382153,
+          50.1191451
+        ]
+      },
+      "properties": {
+        "id": 665,
+        "name": "Mühlheim (Main)",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 665
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8585453,
+          50.1203943
+        ]
+      },
+      "properties": {
+        "id": 666,
+        "name": "Mühlheim (Main)-Dietesheim",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 666
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9074434,
+          50.1217191
+        ]
+      },
+      "properties": {
+        "id": 667,
+        "name": "Steinheim/Main (Hanau)",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 667
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9295574,
+          50.1213168
+        ]
+      },
+      "properties": {
+        "id": 668,
+        "name": "Hanau Hbf",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 668
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782467,
+          50.1140995
+        ]
+      },
+      "properties": {
+        "id": 669,
+        "name": "Frankfurt Hauptwache",
+        "line": "SRM9",
+        "order": 9
+      },
+      "id": 669
+    }
+  ],
+  "properties": {
+    "totalStations": 115,
+    "stationsPerLine": {
+      "SRM1": 33,
+      "SRM2": 28,
+      "SRM3": 20,
+      "SRM4": 18,
+      "SRM5": 19,
+      "SRM6": 35,
+      "SRM7": 10,
+      "SRM8": 30,
+      "SRM9": 27
+    },
+    "nextStationId": 670
+  }
+}
